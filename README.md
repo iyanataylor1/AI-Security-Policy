@@ -1,4 +1,4 @@
-# Computer-Security-Assignment-1
+# Computer Se0curity Assignment 1
 
 ## Group Assignment: Developing a Security Policy for AI Enterprise Applications
 
